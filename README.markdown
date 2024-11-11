@@ -1,4 +1,4 @@
-### [CSS Working Group](https://www.w3.org/Style/CSS/) Specifications
+https://copilot-workspace.githubnext.com/PunkinAnarcrassy/csswg-drafts?shareId=04771dd4-ddb1-4aba-aa44-448f73a49afd### [CSS Working Group](https://www.w3.org/Style/CSS/) Specifications
 
 This is the official CSSWG repository for editor's drafts of CSS specifications.
 
